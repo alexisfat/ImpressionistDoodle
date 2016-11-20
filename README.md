@@ -3,7 +3,7 @@
 This project showcases an Impressionist Sketchpad created in Android Studio. <br>
 
 ###Video Link
-* <insert video>
+* https://youtu.be/zuXTz88IFaQ
 
 ###Features
 * Download Images
