@@ -11,14 +11,13 @@ This project showcases an Impressionist Sketchpad created in Android Studio. <br
 * Save button, which saves image to gallery
 * Clear which clears the entire canvas
 * Numerous Brushes:
-  * Circle  
+  * Circle - this brush uses VelocityTracker to change the brush size based on users' velocity 
   * Square
   * Rectangle 
-  * Circle Splatter - Guassian random circles on a diagnol
+  * Circle Splatter - Guassian random circles on a diagonal
   * Line Splatter - random occurance of lines
   * Popcorn - random occurance of circles
-
-<br>
+  
 ###References
 * The blueprint
   * Jon's Impressionist Skeleton
